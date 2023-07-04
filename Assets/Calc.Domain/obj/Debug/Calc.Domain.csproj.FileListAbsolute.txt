@@ -1,0 +1,4 @@
+D:\TestRepositories\Calc.Domain\obj\Debug\Calc.Domain.csproj.AssemblyReference.cache
+D:\TestRepositories\Calc.Domain\obj\Debug\Calc.Domain.csproj.CoreCompileInputs.cache
+D:\TestRepositories\CalcMVP\Calc.Domain\obj\Debug\Calc.Domain.csproj.AssemblyReference.cache
+D:\TestRepositories\CalcMVP\Calc.Domain\obj\Debug\Calc.Domain.csproj.CoreCompileInputs.cache
